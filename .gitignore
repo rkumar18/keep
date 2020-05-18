@@ -2,4 +2,5 @@
 __pycache__
 static
 Pipfile.lock
-text.db
+test.db
+Pipfile
